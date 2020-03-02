@@ -1,0 +1,15 @@
+****To run this project,We must have internet connection***
+****Because Here we used Google API,which gives current report of Weather accurately***
+
+First of all,
+
+Go to Docs Folder.
+
+there is a "index.html" file, double click it.
+This will directly lead you to a default browser.
+
+Now Enter Your Source(Any location  name/village/city) and
+ also Enter destination and  click to submit button.
+
+Then you will see Current temperater/Sunrise/Sunrise/Wind flowing Speed/precipitation
+ and so many things for next seven days of that locations.....
